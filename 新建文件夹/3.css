@@ -1,0 +1,28 @@
+#header{
+    background-color: #cdd3de;
+  }
+  #content{
+    background-color: #f0b7c0;
+    width: 50%;
+    height: 100px;
+    margin: auto;
+  }
+  #sidebar{
+    background-color: #f0d2e6;
+    float: right;
+    width:25%;
+  }
+  #after-sidebar{
+      clear: both;
+  }
+  #sidebar2{
+    background-color: #c3eedf;
+    width: 25%;
+    float: left;
+  }
+  #after-sidebar2{
+      clear: both;
+  }
+  #footer{
+    background-color: #f7f9c2;
+  }  
